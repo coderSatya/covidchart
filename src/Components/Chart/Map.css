@@ -1,0 +1,9 @@
+.leaflet-container {
+  width: 90vw;
+  height: 80vh;
+  /* width: 90vw;
+    height: 80vh; */
+}
+.myPopup {
+  border: 2px solid red;
+}
